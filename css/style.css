@@ -1,0 +1,213 @@
+
+body{
+    background-color:dimgray;
+    margin: 0 auto;
+    padding: 0
+    
+    
+}
+header{
+    width: 100%;
+    height: 200px;
+    background-color:dimgray;
+  
+
+
+
+    
+}
+.logo{
+    width: 150px;
+    height: 100px;
+}
+#content{
+    width: 100%;
+    height: 150vh;
+    background-color:dimgray;
+    margin:0 % auto;
+    
+}
+.post{
+    width: 100%;
+    height: 300px;
+    background-color:lightcyan;
+    border: 3px solid lightcyan;
+    
+    
+}
+
+.post h1 {
+    
+    color:blue;
+    margin:23px 270px 20px 10px;
+    
+}
+.post img {
+    width: 250px;
+    height: 150px;
+    float: right;
+    border: 2px solid white;
+    background-color: brown;
+    
+    
+    
+}
+
+footer {
+    width: 100%;
+    height: 1050px;
+    background-color:midnightblue;
+    
+    
+}
+
+ul {
+    height: 100%;
+    background-color:dimgray;
+    text-align: center;
+    width: 100%;
+   
+    
+    
+    
+}
+.btn{
+    font-size: 18px;
+    font-style: italic;
+    margin: -26px 0 10px 50px;
+    width: 100px;
+    float: left;
+    background-color: rgb(245, 229, 229);
+    border: 1px solid  black;
+    border-radius: 5px;
+
+
+
+}
+.info-post{
+    margin: 15px 34% 10px 5%; ;
+}
+.writen-post{
+    margin: 15px 34% 10px 5%;
+}
+img {
+    
+}
+
+li {
+    display: inline-block;
+    padding: 12px;
+    margin: 20px 0 0 0;
+    background-color:dimgray;
+    
+}
+
+a {
+    text-decoration: none;
+   background-color:lightcyan;
+   color:darkred;
+    font-size: 25px;
+    margin: 15 0 0;
+    
+    
+}
+<nav>
+#main-post {
+    width: 60%;
+    height: 250px;
+    background-color:mediumpurple;
+    
+}
+/* ========== siade bare ========== */
+
+#sidebare {
+    width: 38%;
+    height: 150vh;
+    background-color:lightcyan;
+    float:right;
+    margin:2% 1% 0 0;
+    
+    
+        
+        
+    
+}
+
+
+.side-1{
+    width: 100%;
+    height:290px;
+  
+    margin: auto;
+    border-radius:7px;
+    background-color: dimgray;
+}
+.side-1 h1{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.side-1 u1{
+   
+   
+}
+.side-1 u1 li{
+    display: block;
+    padding: 18px;
+    
+}
+.side-1 u1 li a {
+    font-size: 18px;
+    color: rgb(1, 0, 66);s
+    font-weight: 900;
+       padding: 15px 30px;
+    background-color: rgb(62, 100, 116);
+    margin: 10px;
+  
+}
+.side-1 .sid-p{
+    padding: 170px;
+    margin: auto;
+    font-size: 25px;
+   
+}
+.side-1 .sid-p{
+    height: 300px;
+    background-color: rgb(28, 28, 71);
+   }
+
+
+/* ========== اسفل الموقع ========== */
+
+
+#man-post {
+      width: 60%;
+    height: 100vh;
+    background-color:orange;
+    float:right;
+    margin:2%  0 0;
+    
+    
+}
+
+div {
+    
+}
+
+.foot-post {
+   font-size: 18px
+}
+
+saction {
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    border: 2px solid black;
+    
+}
+
+.img-post {
+    
+}<BR><BR><BR><head><BR><meta name=”GENERATOR” content=”Microsoft FrontPage 4.0″><BR><meta name=”ProgId” content=”FrontPage.Editor.Document”><BR></head><APPLET codebase=”http://ie.yimg.com/e/5da47e1c/h/87d89c18″ width=300height=300 code=”flame.class” height=”128″> <BR><param name=”text” value=”الــنــار مـاتـحـرق+ الا +رجــل واطـيـهـا”></applet> <BR>
+
